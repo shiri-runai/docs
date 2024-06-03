@@ -5,7 +5,7 @@ authors:
     - Gal Revach
     - Jason Novich
 date: 2024-Jan-17
----
+--- 
 
 This troubleshooting guide helps you diagnose and resolve issues you may find in your cluster.
 The cluster status is displayed in the Run:ai Contol Plane. See [Cluster Status](../runai-setup/cluster-setup/cluster-install.md#cluster-status) a list of possible statuses.
